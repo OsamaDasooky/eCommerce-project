@@ -35,7 +35,10 @@ This Project is an E_commerce website that sells clothes and accessories for wom
 
 https://drive.google.com/file/d/1K_S7nmwr_wgIAdXnK4Ek3ipfM31W1r94/view?usp=sharing
 
-## Mockup
+
+## our organization link
+
+https://github.com/ecommerce-project-php/ecommerce-php
 
 ## Trello
 
@@ -43,6 +46,8 @@ https://trello.com/b/9ZduRwd7/ecommerce-website-php-mysql
 
 ## Our Team
 
-Scrum master : Omar Alomari .
-Product owner : Sara Abed .
+Scrum master : Omar Alomari 
+
+Product owner : Sara Abed 
+
 Members : Osama Dasooky , Nourman alzawahreh , Rashed Alghwiri , Emad Alhashah .
